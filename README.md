@@ -1,16 +1,23 @@
-### Hi there 👋
+Olá, sou o Marcelo Santos! 👋
 
-<!--
-**MRC888/MRC888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌍 Morando em São Bento do Sapucaí - SP.
+- 🎓 Estudante de Sistemas de Informação na UNITAU, 5º período.
+- 👔 Experiência na área administrativa e de escritório, com foco em cadastro, atendimento e trabalho em equipe.
+- 💻 Cursos completos em HTML, CSS, Web Design, Python, Java e AWS Fundamentos.
+- 🚀 Constantemente estudando e evoluindo minhas habilidades.
+- 🔍 Atualmente em busca de oportunidades de emprego na área de TI.
 
-Here are some ideas to get you started:
+### Conecte-se comigo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 [LinkedIn](https://www.linkedin.com/in/marcelo-santos-785053203/)
+- 📧 Email: marcelo123000@hotmail.com
+
+### Interesses e Habilidades:
+
+- 🖥️ Desenvolvimento Web (HTML, CSS, JavaScript).
+- ☕ Desenvolvimento em Java.
+- 🐍 Programação em Python.
+- ☁️ Computação em Nuvem (AWS).
+- 📚 Aprendizado contínuo e trabalho em equipe.
+
+### Let's code together! 💻✨
