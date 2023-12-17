@@ -1,4 +1,4 @@
-Olá, sou o Marcelo Santos! 👋
+### Olá, sou o Marcelo Santos! 👋
 
 - 🎓 Estudante de Sistemas de Informação na UNITAU, 5º período.
 - 👔 Experiência na área administrativa e de escritório, com foco em cadastro, atendimento e trabalho em equipe.
@@ -11,9 +11,9 @@ Olá, sou o Marcelo Santos! 👋
 - 🐍 Programação em Python.
 - ☁️ Computação em Nuvem (AWS).
 - 📚 Aprendizado contínuo e trabalho em equipe.
-### Let's code together! 💻✨
+
+Let's code together! 💻✨
   
-</h1>
 
 <div align="center">
   <a href="https://github.com/MRC888">
