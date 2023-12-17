@@ -1,5 +1,4 @@
-<h1 align="center">
-  Olá, sou o Marcelo Santos! 👋
+Olá, sou o Marcelo Santos! 👋
 
 - 🎓 Estudante de Sistemas de Informação na UNITAU, 5º período.
 - 👔 Experiência na área administrativa e de escritório, com foco em cadastro, atendimento e trabalho em equipe.
@@ -12,13 +11,6 @@
 - 🐍 Programação em Python.
 - ☁️ Computação em Nuvem (AWS).
 - 📚 Aprendizado contínuo e trabalho em equipe.
-
-### Conecte-se comigo:
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/marcelo-santos-785053203/)
-- 📧 Email: marcelo123000@hotmail.com
-
-
 ### Let's code together! 💻✨
   
 </h1>
