@@ -1,7 +1,7 @@
 ### Olá, sou o Marcelo Santos! 👋
 
 - 🎓 Estudante de Sistemas de Informação na UNITAU, 5º período.
-- 👔 Experiência na área administrativa e de escritório, com foco em cadastro, atendimento e trabalho em equipe.
+- 👔 Experiência na área administrativa e de escritório, com foco em cadastro, atendimento.
 - 🔍 Atualmente em busca de oportunidades de emprego na área de TI.
 
 ### Interesses e Habilidades:
